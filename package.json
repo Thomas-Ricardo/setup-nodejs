@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/obg-lab/setup-nodejs#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.20.0"
   },
   "devDependencies": {
     "jest": "^27.3.1"
